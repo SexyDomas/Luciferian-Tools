@@ -1,0 +1,5 @@
+aiohttp
+colorama
+pyfiglet
+discord.py-self
+requests
